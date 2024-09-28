@@ -6,14 +6,14 @@
 - 👨‍💻 All of my projects are available at [# Nilesh Mori ](https://github.com/nilesh7757)
 - **Welcome to my GitHub profile!** I'm a passionate software developer with a strong foundation in web development and programming languages. I'm always eager to learn new technologies and improve my skills.
 - **My Tech Stack:**
-- **Frontend:**[React](https://react.dev/), [Next.js](https://nextjs.org/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- **Frontend:**[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">](https://react.dev/), [Next.js](https://nextjs.org/), [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> ](https://developer.mozilla.org/en-US/docs/Web/CSS), [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> ](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - **Backend:** [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="center" alt="cplusplus" width="25" height="25"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">](https://cplusplus.com/)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" alt="c" width="25" height="25"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">](https://en.wikipedia.org/wiki/C_(programming_language))  [ <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  align ="center" alt="kotlin" width="25" height="20"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">](https://kotlinlang.org/)
 - **Database:** MongoDB
 - **Check out my projects:** * [https://nilesh7757.github.io/NileshMori] - This Is My Portfolio Where You Get All The Information About Me
 - **GitHub:** [nilesh7757](https://github.com/nilesh7757)
 - **LeetCode:** [nileshmori7757](https://leetcode.com/nileshmori7757/)
 - **Codeforces:** [nileshmori7757](https://codeforces.com/profile/nileshmori7757)
-- **LinkedIn:** [nilesh-mori](https://www.linkedin.com/in/nilesh-mori)
+- **LinkedIn:** [nilesh-mori](https://www.linkedin.com/in/nilesh-mori-7757n/)
   Feel free to reach out if you have any questions or want to collaborate on a project!]
 
 - 📫 How to reach me **nileshmori7757@gmail.com**
