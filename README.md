@@ -6,9 +6,7 @@
 - 👨‍💻 All of my projects are available at [# Nilesh Mori ](https://github.com/nilesh7757)
 - **Welcome to my GitHub profile!** I'm a passionate software developer with a strong foundation in web development and programming languages. I'm always eager to learn new technologies and improve my skills.
 - **My Tech Stack:**
-- *
-- **Frontend:** React, Next.js, CSS, HTML
-- *
+- **Frontend:** [<img align="center" src="https://en.m.wikipedia.org/wiki/File:React-icon.svg" alt="React" height="30" width="40" />](https://react.dev/), [Next.js](https://nextjs.org/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - **Backend:** C++, C, Kotlin
 - *
   **Database:** MongoDB
