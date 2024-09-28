@@ -7,7 +7,7 @@
 - **Welcome to my GitHub profile!** I'm a passionate software developer with a strong foundation in web development and programming languages. I'm always eager to learn new technologies and improve my skills.
 - **My Tech Stack:**
 - **Frontend:**React(https://react.dev/), [Next.js](https://nextjs.org/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- **Backend:** [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> C++](https://cplusplus.com/), C, Kotlin
+- **Backend:** [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="center" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> C++](https://cplusplus.com/), C, Kotlin
 - **Database:** MongoDB
 - **Check out my projects:** * [https://nilesh7757.github.io/NileshMori] - This Is My Portfolio Where You Get All The Information About Me
 - **GitHub:** [nilesh7757](https://github.com/nilesh7757)
