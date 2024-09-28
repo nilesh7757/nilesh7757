@@ -8,13 +8,12 @@
 - **My Tech Stack:**
 - **Frontend:**React(https://react.dev/), [Next.js](https://nextjs.org/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - **Backend:** C++, C, Kotlin
-- *
-  **Database:** MongoDB
-  **Check out my projects:** * [https://nilesh7757.github.io/NileshMori] - This Is My Portfolio Where You Get All The Information About Me
-  **GitHub:** [nilesh7757](https://github.com/nilesh7757)
-  **LeetCode:** [nileshmori7757](https://leetcode.com/nileshmori7757/)
-  **Codeforces:** [nileshmori7757](https://codeforces.com/profile/nileshmori7757)
-  **LinkedIn:** [nilesh-mori](https://www.linkedin.com/in/nilesh-mori)
+- **Database:** MongoDB
+- **Check out my projects:** * [https://nilesh7757.github.io/NileshMori] - This Is My Portfolio Where You Get All The Information About Me
+- **GitHub:** [nilesh7757](https://github.com/nilesh7757)
+- **LeetCode:** [nileshmori7757](https://leetcode.com/nileshmori7757/)
+- **Codeforces:** [nileshmori7757](https://codeforces.com/profile/nileshmori7757)
+- **LinkedIn:** [nilesh-mori](https://www.linkedin.com/in/nilesh-mori)
   Feel free to reach out if you have any questions or want to collaborate on a project!]
 
 - 📫 How to reach me **nileshmori7757@gmail.com**
